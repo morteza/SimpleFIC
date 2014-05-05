@@ -1,10 +1,7 @@
 SimpleFIC
 =========
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/morteza/simplefic/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-*(Simple Fractal Image Compression)*
+Huber Fractal Image Compression. It was part of my master's proposed thesis.
 
 SimpleFIC is encoder/decoder for robust fractal image compression technique; An iterative image compression method, based on self-similarities of a single image.
 
